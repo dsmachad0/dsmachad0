@@ -7,7 +7,7 @@ Hi! 👋 My name is Dayara, and I am currently a Data Scientist student at the U
 - 👀 I’m interested in EDA.
 - 💬 Ask me about SQL, coffee & Carolina Panthers.
 - ⚡ Fun fact: I am Brazilian!
-- 📫 How to reach me: [My linkedin](http://www.linkedin.com/in/dayara-machado)
+- 📫 How to reach me: [My Linkedin](http://www.linkedin.com/in/dayara-machado)
 
 
 
